@@ -13,8 +13,8 @@ Route6WildMons:
 	end_grass_wildmons
 
 	def_water_wildmons 3 ; encounter rate
-	db 10, PSYDUCK
-	db 15, PSYDUCK
+	db 10, MAGIKARP
+	db 15, MAGIKARP
 	db 15, PSYDUCK
 	db 15, PSYDUCK
 	db 15, PSYDUCK

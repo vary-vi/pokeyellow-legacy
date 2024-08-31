@@ -6,7 +6,7 @@ RockTunnel1FWildMons:
 	db 19, ZUBAT
 	db 18, GEODUDE
 	db 20, GEODUDE
-	db 21, ZUBAT
+	db 21, KOFFING
 	db 17, CUBONE
 	db 19, CUBONE
 	db 21, CUBONE
