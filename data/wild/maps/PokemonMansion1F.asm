@@ -3,7 +3,7 @@ PokemonMansion1FWildMons:
 	db 34, RATTATA
 	db 34, RATICATE
 	db 33, GRIMER
-	db 36, GROWLITHE
+	db 36, FLAREON
 	db 37, RATTATA
 	db 37, RATICATE
 	db 32, GROWLITHE

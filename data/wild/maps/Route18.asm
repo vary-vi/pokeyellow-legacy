@@ -1,6 +1,6 @@
 Route18WildMons:
 	def_grass_wildmons 25 ; encounter rate
-	db 25, SPEAROW
+	db 25, PORYGON
 	db 27, DODUO
 	db 23, RATTATA
 	db 28, DODUO

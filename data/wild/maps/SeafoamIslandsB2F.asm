@@ -2,7 +2,7 @@ SeafoamIslandsB2FWildMons:
 	def_grass_wildmons 10 ; encounter rate
 	db 27, ZUBAT
 	db 26, KRABBY
-	db 36, GOLBAT
+	db 36, VAPOREON
 	db 38, KINGLER
 	db 37, GOLBAT
 	db 33, SLOWPOKE

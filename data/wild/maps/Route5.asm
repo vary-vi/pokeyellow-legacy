@@ -4,7 +4,7 @@ Route5WildMons:
 	db 14, RATTATA
 	db 13, ABRA
 	db 16, FARFETCHD
-	db 16, RATTATA
+	db 18, FARFETCHD
 	db 17, PIDGEY
 	db 17, PIDGEOTTO
 	db 13, JIGGLYPUFF
