@@ -5,11 +5,11 @@ RockTunnel1FWildMons:
 	db 17, MACHOP
 	db 19, ZUBAT
 	db 18, GEODUDE
-	db 20, GEODUDE
+	db 20, GRAVELER
 	db 21, KOFFING
 	db 17, CUBONE
 	db 19, CUBONE
-	db 21, CUBONE
+	db 21, MAROWAK
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

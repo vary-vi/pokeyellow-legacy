@@ -3,13 +3,13 @@ MtMoonB2FWildMons:
 	db 10, ZUBAT
 	db 11, GEODUDE
 	db 13, PARAS
-	db 11, ZUBAT
-	db 11, GRIMER
-	db 12, VENONAT
-	db 13, GASTLY
-	db  9, CLEFAIRY
-	db 12, CLEFAIRY
+	db 11, GOLBAT
+	db 11, GASTLY
+	db 12, HAUNTER
+	db 13, GENGAR
 	db 15, CLEFAIRY
+	db 12, CLEFAIRY
+	db 15, CLEFABLE
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

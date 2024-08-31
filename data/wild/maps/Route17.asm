@@ -8,7 +8,7 @@ Route17WildMons:
 	db 29, GRIMER
 	db 29, FEAROW
 	db 28, DODUO
-	db 32, PONYTA
+	db 32, RAPIDASH
 	db 31, DODRIO
 	end_grass_wildmons
 
