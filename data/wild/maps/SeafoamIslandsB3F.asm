@@ -22,5 +22,5 @@ SeafoamIslandsB3FWildMons:
 	db 40, TENTACRUEL
 	db 30, KABUTO
 	db 30, KABUTO
-	db 30, KABUTO
+	db 30, KABUTOPS
 	end_water_wildmons

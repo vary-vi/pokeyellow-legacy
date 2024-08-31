@@ -22,5 +22,5 @@ SeafoamIslandsB4FWildMons:
 	db 40, TENTACRUEL
 	db 30, OMANYTE
 	db 30, OMANYTE
-	db 30, OMANYTE
+	db 30, OMASTAR
 	end_water_wildmons

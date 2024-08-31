@@ -9,12 +9,12 @@ Route6WildMons:
 	db 17, PIDGEOTTO
 	db 16, MAGNEMITE
 	db 17, MAGNEMITE
-	db 19, MAGNEMITE
+	db 19, GOLDUCK
 	end_grass_wildmons
 
 	def_water_wildmons 3 ; encounter rate
 	db 10, MAGIKARP
-	db 15, MAGIKARP
+	db 15, GYARADOS
 	db 15, PSYDUCK
 	db 15, PSYDUCK
 	db 15, PSYDUCK

@@ -3,12 +3,12 @@ Route10WildMons:
 	db 16, TANGELA
 	db 20, RATICATE
 	db 18, MAGNEMITE
-	db 20, MAGNEMITE
+	db 20, MAGNETON
 	db 17, NIDORAN_M
 	db 17, NIDORAN_F
 	db 22, ELECTABUZZ
 	db 18, RHYHORN
-	db 19, CHANSEY
+	db 19, RHYDON
 	db 20, CHANSEY
 	end_grass_wildmons
 

@@ -6,10 +6,10 @@ Route7WildMons:
 	db 22, KOFFING
 	db 23, KOFFING
 	db 24, PIDGEOTTO
-	db 26, ABRA
+	db 26, ALAKAZAM
 	db 19, JIGGLYPUFF
 	db 24, JIGGLYPUFF
-	db 30, JIGGLYPUFF
+	db 30, WIGGLYTUFF
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

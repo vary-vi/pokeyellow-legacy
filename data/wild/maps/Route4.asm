@@ -6,10 +6,10 @@ Route4WildMons:
 	db 13, FARFETCHD
 	db 13, SANDSHREW
 	db 13, BELLSPROUT
-	db 14, SANDSHREW
+	db 14, SANDSLASH
 	db 12, PSYDUCK
-	db 13, PSYDUCK
-	db 15, PSYDUCK
+	db 13, CLEFABLE
+	db 15, DODRIO
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
