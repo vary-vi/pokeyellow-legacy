@@ -8,7 +8,7 @@ Route22WildMons:
 	db  1, KAKUNA
 	db  1, KAKUNA
 	db  1, KAKUNA
-	db  1, KAKUNA
+	db 99, METAPOD
 	db 99, METAPOD
 	end_grass_wildmons
 
