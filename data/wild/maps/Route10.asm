@@ -1,6 +1,6 @@
 Route10WildMons:
 	def_grass_wildmons 15 ; encounter rate
-	db 16, TENGELA
+	db 16, TANGELA
 	db 20, RATICATE
 	db 18, MAGNEMITE
 	db 20, MAGNEMITE

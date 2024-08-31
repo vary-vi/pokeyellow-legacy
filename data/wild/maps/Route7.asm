@@ -1,7 +1,7 @@
 Route7WildMons:
 	def_grass_wildmons 15 ; encounter rate
 	db 20, VULPIX
-	db 22, JINX
+	db 22, JYNX
 	db 22, MAGMAR
 	db 22, KOFFING
 	db 23, KOFFING
