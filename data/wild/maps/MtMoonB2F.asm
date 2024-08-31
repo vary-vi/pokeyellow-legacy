@@ -6,7 +6,7 @@ MtMoonB2FWildMons:
 	db 11, ZUBAT
 	db 11, GRIMER
 	db 12, VENONAT
-	db 13, GHASTLY
+	db 13, GASTLY
 	db  9, CLEFAIRY
 	db 12, CLEFAIRY
 	db 15, CLEFAIRY

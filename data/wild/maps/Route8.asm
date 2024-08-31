@@ -1,8 +1,8 @@
 Route8WildMons:
 	def_grass_wildmons 15 ; encounter rate
 	db 20, GROWLITHE
-	db 22, SCYHTER
-	db 20, MR MIME
+	db 22, SCYTHER
+	db 20, MR_MIME
 	db 17, ABRA
 	db 18, ABRA
 	db 24, PIDGEOTTO
