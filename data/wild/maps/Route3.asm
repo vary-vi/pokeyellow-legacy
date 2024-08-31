@@ -5,7 +5,7 @@ Route3WildMons:
 	db 10, ODDISH
 	db  9, JIGGLYPUFF
 	db 10, CLEFAIRY
-	db 10, PRIMAPE
+	db 10, PRIMEAPE
 	db 11, GLOOM
 	db 12, RATTATA
 	db 13, FEAROW

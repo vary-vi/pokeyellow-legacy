@@ -3,7 +3,7 @@ ViridianForestWildMons:
 	db  4, CATERPIE
 	db  4, WEEDLE
 	db  7, BUTTERFREE
-	db  7, BEEDRIL
+	db  7, BEEDRILL
 	db  5, ODDISH
 	db  6, EKANS
 	db  6, ODDISH

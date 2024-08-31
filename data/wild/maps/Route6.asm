@@ -14,7 +14,7 @@ Route6WildMons:
 
 	def_water_wildmons 3 ; encounter rate
 	db 10, MAGIKARP
-	db 15, GYARDOS
+	db 15, GYARADOS
 	db 15, PSYDUCK
 	db 15, PSYDUCK
 	db 15, PSYDUCK

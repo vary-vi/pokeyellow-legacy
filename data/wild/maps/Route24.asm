@@ -9,7 +9,7 @@ Route24WildMons:
 	db 13, SEEL
 	db 16, VENONAT
 	db 17, SLOWPOKE
-	db 17, SLOBRO
+	db 17, SLOWBRO
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
