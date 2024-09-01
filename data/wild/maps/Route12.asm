@@ -13,14 +13,14 @@ Route12WildMons:
 	end_grass_wildmons
 
 	def_water_wildmons 3 ; encounter rate
-	db 15, SLOWPOKE
-	db 15, SLOWPOKE
-	db 15, SLOWPOKE
-	db 15, SLOWPOKE
-	db 15, SLOWPOKE
-	db 15, SLOWPOKE
+	db 15, SHELLDER
+	db 15, SHELLDER
 	db 15, SLOWPOKE
 	db 15, SLOWPOKE
 	db 15, SLOWBRO
-	db 20, SLOWBRO
+	db 15, SLOWBRO
+	db 15, CLOYSTER
+	db 15, CLOYSTER
+	db 15, CLOYSTER
+	db 20, CLOYSTER
 	end_water_wildmons

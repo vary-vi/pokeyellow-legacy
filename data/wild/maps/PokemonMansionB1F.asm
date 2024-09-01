@@ -3,7 +3,7 @@ PokemonMansionB1FWildMons:
 	db 37, RATICATE
 	db 37, MAGMAR
 	db 36, GRIMER
-	db 39, GRIMER
+	db 39, FLAREON
 	db 40, MUK
 	db 40, RATICATE
 	db  7, DITTO

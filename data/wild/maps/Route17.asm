@@ -1,6 +1,6 @@
 Route17WildMons:
 	def_grass_wildmons 25 ; encounter rate
-	db 26, DODUO
+	db 26, DITTO
 	db 27, FEAROW
 	db 27, DODUO
 	db 28, GRIMER
@@ -8,7 +8,7 @@ Route17WildMons:
 	db 29, GRIMER
 	db 29, FEAROW
 	db 28, DODUO
-	db 32, PONYTA
+	db 32, RAPIDASH
 	db 31, DODRIO
 	end_grass_wildmons
 

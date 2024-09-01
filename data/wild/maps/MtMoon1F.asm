@@ -3,8 +3,8 @@ MtMoon1FWildMons:
 	db  8, ZUBAT
 	db  9, ZUBAT
 	db 10, GEODUDE
-	db  6, ZUBAT
-	db  7, ZUBAT
+	db  6, MEOWTH
+	db  7, MEOWTH
 	db 10, SANDSHREW
 	db 10, GEODUDE
 	db 11, SANDSHREW

@@ -8,8 +8,8 @@ Route11WildMons:
 	db 18, DROWZEE
 	db 20, PIDGEOTTO
 	db 19, MAGNEMITE
-	db 19, DROWZEE
-	db 20, DROWZEE
+	db 19, HYPNO
+	db 20, HYPNO
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

@@ -2,7 +2,7 @@ Route16WildMons:
 	def_grass_wildmons 25 ; encounter rate
 	db 22, SPEAROW
 	db 22, DODUO
-	db 23, RATTATA
+	db 23, TAUROS
 	db 24, DODUO
 	db 24, GRIMER
 	db 26, DODUO

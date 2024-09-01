@@ -4,12 +4,12 @@ Route3WildMons:
 	db  9, MANKEY
 	db 10, ODDISH
 	db  9, JIGGLYPUFF
-	db 10, RATTATA
-	db 10, RATTATA
-	db 11, ODDISH
+	db 10, CLEFAIRY
+	db 10, PRIMEAPE
+	db 11, GLOOM
 	db 12, RATTATA
-	db 13, SPEAROW
-	db 14, SPEAROW
+	db 13, FEAROW
+	db 14, RATICATE
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
