@@ -21,6 +21,6 @@ SeafoamIslandsB3FWildMons:
 	db 30, STARYU
 	db 40, TENTACRUEL
 	db 30, KABUTO
-	db 30, KABUTO
-	db 30, KABUTOPS
+	db 35, KABUTO
+	db 40, KABUTOPS
 	end_water_wildmons
